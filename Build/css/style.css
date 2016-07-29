@@ -84,7 +84,7 @@ a:hover{
 	right:8px;
 }
 
-#logo{
+#logo{  display: none;
 	position: absolute;
 	top: 15px;
 	left: 20px;
@@ -127,7 +127,10 @@ a:hover{
 	width: 285px;
 }
 
-#setsumei{
+#c_place{display: none;}
+
+#setsumei{ 
+	display: none;
 	position: absolute;
 	bottom: 10px;
 	left: 20px;
@@ -161,7 +164,7 @@ a:hover{
     border-radius: 3px;
 }
 
-#slider {
+#slider { display: none;
 	position: absolute;
 	width: 160px;
 	top: 70px;

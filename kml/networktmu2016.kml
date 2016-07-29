@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>networktmu2016.kml</name>
+	<Style id="sn_arts">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arts.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_arts">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arts</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arts0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_arts">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arts.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_arts0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arts.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_arts0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arts0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arts</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_arts0">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arts.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>無題 - フォルダ</name>
+		<Placemark>
+			<name>ミニリュウ</name>
+			<description><![CDATA[<img src="https://gamewith.akamaized.net/article_tools/pokemongo/gacha/25910.png"/>
+
+<br>
+評価点　3/10点
+
+<br>
+CP　983
+
+<br>
+レアリティ　C]]></description>
+			<LookAt>
+				<longitude>139.6810873373779</longitude>
+				<latitude>35.64439321525472</latitude>
+				<altitude>0</altitude>
+				<heading>5.685898627518774e-007</heading>
+				<tilt>0</tilt>
+				<range>997.3952339359555</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arts0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6810873373779,35.64439321525472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ベロリンガ</name>
+			<description><![CDATA[<img src="https://gamewith.akamaized.net/article_tools/pokemongo/gacha/24927.png"/>
+
+<br>
+評価点　7.5/10点
+
+<br>
+CP　1627
+
+<br>
+レアリティ　B]]></description>
+			<LookAt>
+				<longitude>139.5205318220044</longitude>
+				<latitude>35.71660247902579</latitude>
+				<altitude>18.84215297166449</altitude>
+				<heading>3.625133406796605e-006</heading>
+				<tilt>0</tilt>
+				<range>987.3896150762309</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arts0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5205318220044,35.71660247902579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>イシツブテ</name>
+			<description><![CDATA[<img src="https://gamewith.akamaized.net/article_tools/pokemongo/gacha/25503.png"/>
+
+<br>
+評価点　3/10点
+
+<br>
+CP　849
+
+<br>
+レアリティ　D]]></description>
+			<LookAt>
+				<longitude>139.3940922591144</longitude>
+				<latitude>35.71094125414333</latitude>
+				<altitude>0</altitude>
+				<heading>1.383411751986118e-006</heading>
+				<tilt>0</tilt>
+				<range>1040.444163285869</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arts0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.3940922591144,35.71094125414333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>コイル</name>
+			<description><![CDATA[<img src="https://gamewith.akamaized.net/article_tools/pokemongo/gacha/25232.png"/>
+
+<br>
+評価点 4/10点
+
+<br>
+CP 891
+
+<br>
+レアリティ　E　]]></description>
+			<LookAt>
+				<longitude>139.5810451450876</longitude>
+				<latitude>35.63601431608871</latitude>
+				<altitude>0</altitude>
+				<heading>0.09035511263636416</heading>
+				<tilt>0</tilt>
+				<range>49914.66671912434</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arts0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5810451450876,35.6360143160887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ゴース</name>
+			<description><![CDATA[<img src="https://gamewith.akamaized.net/article_tools/pokemongo/gacha/25513.png"/>
+
+<br>
+評価点　3/10点
+
+<br>
+CP 804
+
+<br>
+レアリティ　D]]></description>
+			<LookAt>
+				<longitude>139.4259030999696</longitude>
+				<latitude>35.62092790032634</latitude>
+				<altitude>0</altitude>
+				<heading>-1.771887013043325e-011</heading>
+				<tilt>0</tilt>
+				<range>999.9788099593161</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arts0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.4259030999696,35.62092790032634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ヤドン</name>
+			<description><![CDATA[<img src="https://gamewith.akamaized.net/article_tools/pokemongo/gacha/25198.png"/>
+
+<br>
+評価点　6/10点
+
+<br>
+CP 1219
+
+<br>
+レアリティ　E]]></description>
+			<LookAt>
+				<longitude>139.7634924999945</longitude>
+				<latitude>35.65973740017677</latitude>
+				<altitude>17.59755648334049</altitude>
+				<heading>-3.199638009552298e-012</heading>
+				<tilt>0</tilt>
+				<range>982.4024369131695</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arts</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7634924999945,35.65973740017677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ストライク</name>
+			<description><![CDATA[<img src="https://gamewith.akamaized.net/article_tools/pokemongo/gacha/25501.png"/>
+
+<br>
+評価点　7/10点
+
+<br>
+最大CP　2074
+
+<br>
+レアリティ　D]]></description>
+			<LookAt>
+				<longitude>139.6618938000059</longitude>
+				<latitude>35.62719820035461</latitude>
+				<altitude>0</altitude>
+				<heading>3.40955461852889e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.00000505689</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arts0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6618938000059,35.6271982003546,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ピカチュウ</name>
+			<description><![CDATA[<img src="https://gamewith.akamaized.net/article_tools/pokemongo/gacha/24224.png"/>
+
+<br>
+評価　4/10点
+
+<br>
+最大CP 888
+
+<br>
+レアリティ　C　
+]]></description>
+			<LookAt>
+				<longitude>139.7100516717276</longitude>
+				<latitude>35.68517628499051</latitude>
+				<altitude>0</altitude>
+				<heading>-1.437515299381066e-010</heading>
+				<tilt>0</tilt>
+				<range>1002.782005505181</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arts0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7100516717276,35.6851762849905,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

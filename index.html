@@ -138,6 +138,10 @@
 
 		if (mobile == 0) {
 			viewer = new Cesium.Viewer('cesiumContainer',{
+				 imageryProvider : new Cesium.ArcGisMapServerImageryProvider({
+        url : 'http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer'
+    }),
+              		baseLayerPicker : false,
 			navigationHelpButton : false,
 			geocoder:false,
 			timeline: false,
@@ -153,7 +157,10 @@
 				roll : 0.0
 			});
 		} else {
-			viewer = new Cesium.Viewer('cesiumContainer',{
+			viewer = new Cesium.Viewer('cesiumContainer',{ imageryProvider : new Cesium.ArcGisMapServerImageryProvider({
+        url : 'http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer'
+    }),
+    				baseLayerPicker : false,
 				sceneMode: Cesium.SceneMode.COLUMBUS_VIEW,
 				navigationHelpButton : false,
 				geocoder:false,
